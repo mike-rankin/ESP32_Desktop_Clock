@@ -1,3 +1,8 @@
+//Great Example of weather data formatting: https://github.com/xxlukas42/SensorlessWeatherStation/blob/master/sensorless_weather_station.ino
+//Create C arrays from jpeg images using this online tool:
+//    http://tomeko.net/online_tools/file_to_hex.php?lang=en
+
+
 /*  Create C arrays from jpeg images using this online tool:
     http://tomeko.net/online_tools/file_to_hex.php?lang=en
 
