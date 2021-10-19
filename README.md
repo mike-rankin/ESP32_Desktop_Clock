@@ -1,9 +1,9 @@
 # ESP32_Desktop_Clock
 ESP32 based Desktop Clock
 
-![Image2](https://user-images.githubusercontent.com/4991664/137914879-f41ecba5-b2aa-40b7-b652-fe6137cbe4f0.jpg)
-
 ![Image1](https://user-images.githubusercontent.com/4991664/137914889-fa3bfda3-6b23-425e-a0d9-011137bf89a1.jpg)
+
+![Image2](https://user-images.githubusercontent.com/4991664/137914879-f41ecba5-b2aa-40b7-b652-fe6137cbe4f0.jpg)
 
 ![Front_Components](https://user-images.githubusercontent.com/4991664/137002687-6ac9a98c-8455-4430-a600-dcdc6465f5c8.jpg)
 
