@@ -15,17 +15,17 @@ ESP32 based Desktop Clock
 
 This ESP32 internet of things desktop clock is a project created for my home. School has started and fall is coming so every morning my kids ask me what they should wear. This clock is normally very, very dim and shows the time, co2 value, room temperature and humidity in a dark orange color. When you move your hand a foot or so in front, the time fades away to a screen showing the days low temperature, high and what the weather conditions will be. Time is updated every few minutes over wifi from an NTP server, local weather data is updated from Openweather with various sensors on the front. 
 
-Hardware on this board:
--ESP32 Pico D4 processor
--temperature/humidity sensor (HDC1080DMBT)
--laser range sensor (VL53L0CXV0DH)
--CO2/TVOC (SGP-30-2.5K)
--ambient light sensor (BH1750FVI)
--135x240 TFT LCD (ER-TFT1.14-1)
--3.3V LDO (NCP1117LPST33T3G)
--1.8V LDO (RT9193-18GB)
--Neopixel LED
--USB interface (CP2104N)
--USB-C Connector
--QwiiC i2c Connector
--Buzzer
+Hardware on this board:<br/>
+-ESP32 Pico D4 processor<br/>
+-temperature/humidity sensor (HDC1080DMBT)<br/>
+-laser range sensor (VL53L0CXV0DH)<br/>
+-CO2/TVOC (SGP-30-2.5K)<br/>
+-ambient light sensor (BH1750FVI)<br/>
+-135x240 TFT LCD (ER-TFT1.14-1)<br/>
+-3.3V LDO (NCP1117LPST33T3G)<br/>
+-1.8V LDO (RT9193-18GB)<br/>
+-Neopixel LED<br/>
+-USB interface (CP2104N)<br/>
+-USB-C Connector<br/>
+-QwiiC i2c Connector<br/>
+-Buzzer<br/>
